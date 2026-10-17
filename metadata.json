@@ -1,0 +1,6 @@
+{
+  "name": "Aura Interiors — Private Architecture & Curation",
+  "description": "Bespoke architectural interior design studio portfolio, living sphere taxonomy, curated case studies, and private consultation concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
